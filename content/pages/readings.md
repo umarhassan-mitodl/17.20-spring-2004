@@ -22,7 +22,7 @@ What is the Role of Government?
 
 Wilson, James. *Bureaucracy: What Government Agencies Do and Why They Do It*. New York: Basic Books, 1989. Chapter 19.
 
-{{% resource_link "7ac70d36-60f5-4ff4-ab48-891ecb26b6d4" "U.S. Constitution" %}}.
+{{% resource_link "f36eef8e-7d9c-430a-989f-51d5d704f7ac" "U.S. Constitution" %}}.
 
 **Part 2: Institutions and American Politics**
 
